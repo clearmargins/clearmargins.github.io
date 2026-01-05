@@ -1,5 +1,4 @@
 const { DateTime } = require("luxon");
-const pluginSEO = require("eleventy-plugin-seo");
 const embedTwitter = require("eleventy-plugin-embed-twitter");
 
 /**
