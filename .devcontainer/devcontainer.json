@@ -20,15 +20,10 @@
     "8080-8090": {
       "label": "Site",
       "onAutoForward": "openPreview"
-    },
-    "7676": {
-      "label": "Compute",
-      "onAutoForward": "openPreview"
     }
   },
   "updateContentCommand": "npm install",
   "postAttachCommand": {
-    "guide": "bash _migrate/welcome.sh",
     "start": "npm run start",
     "build": "npm run build"
   },
@@ -68,18 +63,6 @@
               "useVsCodeApi": true,
               "command": "workbench.action.moveEditorToNextGroup",
               "tooltip": "Move your active tab to the side"
-            },
-            {
-              "name": "🔗 Share",
-              "singleInstance": true,
-              "command": "bash _migrate/share.sh",
-              "tooltip": "Grab a link to share your draft site"
-            },
-            {
-              "name": "🚀 Publish",
-              "singleInstance": true,
-              "command": "bash _migrate/publish.sh",
-              "tooltip": "Publish your content to Fastly Compute"
             }
           ],
           "defaultColor": "none",
