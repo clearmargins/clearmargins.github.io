@@ -1,9 +1,2 @@
-.glitchdotcom.json
-build
 node_modules
-web_modules
 package-lock.json
-compute-js/pkg 
-compute-js/bin 
-compute-js/node_modules
-compute-js/package-lock.json
