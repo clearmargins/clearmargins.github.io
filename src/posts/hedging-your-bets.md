@@ -5,10 +5,10 @@ date: 2023-01-13
 tags:
   - posts
 layout: layouts/post.njk
-image: bl.png
+image: /bl.png
 ---
 
-![Blanche Devereux looking nervous](bl.png)
+![Blanche Devereux looking nervous](/bl.png)
 
 Something I hadn't anticipated when I decided to prioritise not being in denial when dealing with cancer. When you're waiting for a test result or whatever you have to kind of **hold different possibilities in your head**. 
 
