@@ -275,7 +275,7 @@ blockquote {
 }
 
 figure img {
-  width:500px !important;
+  max-width:500px !important;
   max-height:400px !important;
 }
 figcaption{
