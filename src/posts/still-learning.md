@@ -18,7 +18,7 @@ It's not an exaggeration to say that my life pretty much revolves around swimmin
 
 ![me swimmming](/sueswim.gif)
 
-_Me swimming off the coast of Cabo Verde
+_Me swimming off the coast of Cabo Verde_
 
 When we go on a beach holiday, our days are built around sea swims. Breakfast : a swim : lunch : another swim : siesta : dinner : bedtime. My partner is not as fanatical about swimming as I am, but he enjoys it enough to tolerate this nonsense for my sake.
 
