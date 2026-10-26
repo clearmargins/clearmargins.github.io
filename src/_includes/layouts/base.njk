@@ -6,7 +6,13 @@
     
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="A blog about cancer" />
+    <title>{{ title or metadata.title }}</title>
+		<meta property="og:title" content="{{ title or metadata.title }}"/>
+		<meta name="description" content="{{ description or metadata.description }}">
+		<meta property="og:description" content="{{ description or metadata.description }}"/>
+		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
+
+		<meta property="og:image" content="{{ image or metadata.image }}" />
     <link rel="stylesheet" type="text/css" href="/style.css" />
   </head>
   <body>
