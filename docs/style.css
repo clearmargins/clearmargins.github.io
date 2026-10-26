@@ -273,3 +273,12 @@ blockquote {
 .posts ul {
   padding-left:0px;
 }
+
+figure img {
+  width:500px !important;
+  max-height:400px !important;
+}
+figcaption{
+  font-style: italic;
+  color:var(--color-text-alt);
+}
