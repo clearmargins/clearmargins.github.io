@@ -228,7 +228,7 @@ ul p {
 }
 .post img {
   max-width:100%;
-  max-height:600px;
+  max-height:400px;
 }
 .eleventy-plugin-youtube-embed {
   margin-bottom:1rem;
@@ -272,13 +272,4 @@ blockquote {
 }
 .posts ul {
   padding-left:0px;
-}
-
-figure img {
-  max-width:500px !important;
-  max-height:400px !important;
-}
-figcaption{
-  font-style: italic;
-  color:var(--color-text-alt);
 }
